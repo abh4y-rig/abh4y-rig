@@ -19,7 +19,7 @@
   NAME      : Abhay
   HANDLE    : abh4y-rig
   ROLE      : Engineering graduate, robotics
-  DOMAIN    : Embedded systems / Computer vision / Applied AI
+  DOMAIN    : Embedded systems / Robotics / IOT
   STATUS    : [■■■■■■■■■■] BUILDING
 
 ┌─[abhay@rig]─[~]
