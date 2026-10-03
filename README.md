@@ -21,5 +21,5 @@ Intelligent robotic systems combining hardware, computer vision and AI.
 ---
 
 <p align="center">
-  <img src="./assets/ascii-portrait.svg" width="840">
+  <img src="./assets/ascii-portrait.svg?v=2" width="840">
 </p>
