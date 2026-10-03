@@ -1,0 +1,21 @@
+{
+  "name": "Abhay",
+  "username": "abh4y-rig",
+  "role": "Robotics & AI Enthusiast",
+  "location": "Kerala, India",
+  "focus": [
+    "Robotics",
+    "Embedded Systems",
+    "Computer Vision",
+    "Artificial Intelligence"
+  ],
+  "currently_building": "Intelligent robotic systems",
+  "tools": [
+    "Python",
+    "C/C++",
+    "ESP32",
+    "Arduino",
+    "OpenCV",
+    "Git"
+  ]
+}
