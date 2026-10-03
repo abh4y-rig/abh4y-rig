@@ -1,59 +1,53 @@
 <div align="center">
 
-# `ABHAY // RIG`
-
-### ELECTRONICS × ROBOTICS × AI
-
-<img src="./assets/ascii-portrait.svg?v=2" width="760">
+<a href="https://github.com/abh4y-rig">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&duration=3200&pause=1200&color=00E5A8&background=0D111700&center=true&vCenter=true&width=640&height=48&lines=%3E+initializing+abhay.rig...;%3E+robotics+%7C+embedded+%7C+vision;%3E+status%3A+building" alt="typing banner" />
+</a>
 
 <br>
 
-```text
-┌───────────────────────────────────────────────┐
-│  SYSTEM ONLINE                                              │
-│                                                             │
-│  USER       : abh4y-rig                                     │
-│  DOMAIN     : ROBOTICS / EMBEDDED / COMPUTER VISION         │
-│  STATUS     : BUILDING                                      │
-│                                                             │
-│  HARDWARE   → ESP32 · Arduino · Sensors · Servos            │
-│  SOFTWARE   → Python · C/C++ · OpenCV                       │
-│  INTERESTS  → Robotics · AI · Drones · Embedded Systems     │
-└───────────────────────────────────────────────┘
+<img src="./assets/ascii-portrait.svg?v=5" width="450">
+
+<br>
+
+![](https://img.shields.io/badge/ROBOTICS-0D1117?style=flat-square&labelColor=0D1117&color=00E5A8)
+![](https://img.shields.io/badge/EMBEDDED-0D1117?style=flat-square&labelColor=0D1117&color=00B8D9)
+![](https://img.shields.io/badge/COMPUTER%20VISION-0D1117?style=flat-square&labelColor=0D1117&color=7C8CFF)
 
 </div>
 
-./CURRENTLY_BUILDING
-01 — MULTIMODAL ROBOTIC ARM
-A 6-DOF robotic system combining physical control with computer vision and intelligent safety.
-VISION ─────┐
-              ├──→ CONTROL ──→ ROBOT ARM
-JOYSTICK ───┘
+```text
+┌─[abhay@rig]─[~]
+└──╼ $ cat /etc/identity
 
-HUMAN DETECTED
-      ↓
-EMERGENCY STOP
+  NAME      : Abhay
+  HANDLE    : abh4y-rig
+  ROLE      : Engineering graduate, robotics
+  DOMAIN    : Embedded systems / Computer vision / Applied AI
+  STATUS    : [■■■■■■■■■■] BUILDING
 
-ESP32 OpenCV CNN PCA9685 MG996R
-./PROJECTS
-PROJECT	STACK	STATUS
-🤖 Intelligent Robotic Arm	ESP32 · OpenCV · CNN	BUILDING
-📡 RFID Meal Attendance	ESP32 · MFRC522 · Cloud	DEPLOYED
-🪖 Smart Disaster Helmet	Embedded · Sensors	PROTOTYPE
+┌─[abhay@rig]─[~]
+└──╼ $ ls /stack
 
+  lang/       python   c   c++
+  hardware/   esp32    arduino   servos   sensors
+  vision/     opencv   computer-vision
 
-./ARSENAL
-PYTHON          ████████████████░░
-C / C++         ██████████████░░░░
-ESP32           ██████████████████
-ARDUINO         ████████████████░░
-OPENCV          ████████████████░░
-COMPUTER VISION █████████████░░░░░
+┌─[abhay@rig]─[~]
+└──╼ $ git log --projects
+
+  PROJECT                      STATE
+  ───────────────────────────  ───────────
+  Intelligent Robotic Arm      BUILDING
+  RFID Meal Attendance         DEPLOYED
+  Smart Disaster Helmet        PROTOTYPE
+
+┌─[abhay@rig]─[~]
+└──╼ $ echo $PHILOSOPHY
+
+  build -> break -> debug -> rebuild
+
+└──╼ $ _
 
 <div align="center">
-
-BUILD → BREAK → DEBUG → REBUILD
-
-abh4y-rig@github:~$ whoami
-Abhay
 </div>
