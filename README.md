@@ -14,7 +14,7 @@
 
 ```text
 ┌─[abhay@rig]─[~]
-└──╼ $ cat /etc/identity
+└──╼ $ identity
 
   NAME      : Abhay
   HANDLE    : abh4y-rig
