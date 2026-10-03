@@ -10,10 +10,6 @@
 
 <br>
 
-![](https://img.shields.io/badge/ROBOTICS-0D1117?style=flat-square&labelColor=0D1117&color=00E5A8)
-![](https://img.shields.io/badge/EMBEDDED-0D1117?style=flat-square&labelColor=0D1117&color=00B8D9)
-![](https://img.shields.io/badge/COMPUTER%20VISION-0D1117?style=flat-square&labelColor=0D1117&color=7C8CFF)
-
 </div>
 
 ```text
@@ -49,5 +45,6 @@
 
 └──╼ $ _
 
+```
 <div align="center">
 </div>
