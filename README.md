@@ -1,25 +1,59 @@
-# Hi, I'm Abhay 👋
+<div align="center">
 
-## 🤖 Robotics & AI Enthusiast
+# `ABHAY // RIG`
 
-I'm an ECE student interested in:
+### ELECTRONICS × ROBOTICS × AI
 
-- 🤖 Robotics
-- 🧠 Artificial Intelligence
-- 👁️ Computer Vision
-- ⚡ Embedded Systems
-- 🚁 Drones & intelligent systems
+<img src="./assets/ascii-portrait.svg?v=2" width="760">
 
-### 🚀 Currently building
+<br>
 
-Intelligent robotic systems combining hardware, computer vision and AI.
+```text
+┌───────────────────────────────────────────────┐
+│  SYSTEM ONLINE                                              │
+│                                                             │
+│  USER       : abh4y-rig                                     │
+│  DOMAIN     : ROBOTICS / EMBEDDED / COMPUTER VISION         │
+│  STATUS     : BUILDING                                      │
+│                                                             │
+│  HARDWARE   → ESP32 · Arduino · Sensors · Servos            │
+│  SOFTWARE   → Python · C/C++ · OpenCV                       │
+│  INTERESTS  → Robotics · AI · Drones · Embedded Systems     │
+└───────────────────────────────────────────────┘
 
-### 🛠️ Technologies
+</div>
 
-`Python` `C/C++` `ESP32` `Arduino` `OpenCV` `Git`
+./CURRENTLY_BUILDING
+01 — MULTIMODAL ROBOTIC ARM
+A 6-DOF robotic system combining physical control with computer vision and intelligent safety.
+VISION ─────┐
+              ├──→ CONTROL ──→ ROBOT ARM
+JOYSTICK ───┘
 
----
+HUMAN DETECTED
+      ↓
+EMERGENCY STOP
 
-<p align="center">
-  <img src="./assets/ascii-portrait.svg?v=2" width="840">
-</p>
+ESP32 OpenCV CNN PCA9685 MG996R
+./PROJECTS
+PROJECT	STACK	STATUS
+🤖 Intelligent Robotic Arm	ESP32 · OpenCV · CNN	BUILDING
+📡 RFID Meal Attendance	ESP32 · MFRC522 · Cloud	DEPLOYED
+🪖 Smart Disaster Helmet	Embedded · Sensors	PROTOTYPE
+
+
+./ARSENAL
+PYTHON          ████████████████░░
+C / C++         ██████████████░░░░
+ESP32           ██████████████████
+ARDUINO         ████████████████░░
+OPENCV          ████████████████░░
+COMPUTER VISION █████████████░░░░░
+
+<div align="center">
+
+BUILD → BREAK → DEBUG → REBUILD
+
+abh4y-rig@github:~$ whoami
+Abhay
+</div>
