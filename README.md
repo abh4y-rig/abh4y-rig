@@ -32,11 +32,11 @@
 ┌─[abhay@rig]─[~]
 └──╼ $ git log --projects
 
-  PROJECT                      STATE
+  PROJECT                           STATE
   ───────────────────────────  ───────────
-  Intelligent Robotic Arm      BUILDING
-  RFID Meal Attendance         DEPLOYED
-  Smart Disaster Helmet        PROTOTYPE
+  Intelligent Robotic Arm           BUILDING
+  RFID Meal Attendance              DEPLOYED
+  Smart Disaster Helmet             PROTOTYPE
 
 ┌─[abhay@rig]─[~]
 └──╼ $ echo $PHILOSOPHY
